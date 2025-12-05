@@ -40,12 +40,11 @@
 ---
 
 ## 🚀 Current Projects
-| Project | Description | Technologies | Status |
-|--------|-------------|--------------|--------|
-| [PieceOfArt](https://github.com/azza-attia/pieceOfArt.git) | Web app for showcasing and selling artwork | Angular + Spring Boot | 🔄 In progress |
-| [Eco Action](https://github.com/yasmiine1/projetEcoActionComplet.git) | Mobile app promoting ecological and sustainable actions | Android Studio + Firebase | 🔄 In progress |
-| [GlowUp Front](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back](https://github.com/malekbenhassine/backGlowUpApp.git) | Mobile app for sharing creative content | Flutter + Spring Boot | 🔄 In progress |
-
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [PieceOfArt](https://github.com/azza-attia/pieceOfArt.git) | Web app for showcasing and selling artwork | Angular + Spring Boot
+| [Eco Action](https://github.com/yasmiine1/projetEcoActionComplet.git) | Mobile app promoting ecological and sustainable actions | Android Studio + Firebase 
+| [GlowUp Front](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back](https://github.com/malekbenhassine/backGlowUpApp.git) | Mobile app for sharing creative content | Flutter + Spring Boot 
 ---
 
 ## 📫 Contact Me
