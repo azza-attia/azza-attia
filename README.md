@@ -1,14 +1,13 @@
 # 👋 Hello, I'm **Azza Attia**
 
 [![IT Student](https://img.shields.io/badge/IT%20Student-9b59b6?style=for-the-badge&logo=student&logoColor=white)]() 
-[![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-e91e63?style=for-the-badge&logo=developer-mode&logoColor=white)]()
 
 ---
 
 ## 👋 About Me
 - 🎓 IT Student passionate about web and mobile development  
 - 💡 I build modern applications using *Angular, Spring Boot, React, Flutter, Node.js*, and more  
-- 📧 *Email:* [attiaazza086@gmail.com](mailto:your.email@example.com)  
+- 📧 *Email:* [attiaazza086@gmail.com](mailto:attiaazza086@gmail.com)  
 - 📱 *Phone:* +216 22 287 439  
 
 ---
@@ -36,4 +35,19 @@
 
 *Tools:*  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Current Projects
+| Project | Description | Technologies | Status |
+|--------|-------------|--------------|--------|
+| [PieceOfArt](https://github.com/azza-attia/pieceOfArt.git) | Web app for showcasing and selling artwork | Angular + Spring Boot | 🔄 In progress |
+| [Eco Action](https://github.com/yasmiine1/projetEcoActionComplet.git) | Mobile app promoting ecological and sustainable actions | Android Studio + Firebase | 🔄 In progress |
+| [GlowUp Front](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back](https://github.com/malekbenhassine/backGlowUpApp.git) | Mobile app for sharing creative content | Flutter + Spring Boot | 🔄 In progress |
+
+---
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attiaazza086@gmail.com)
