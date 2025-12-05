@@ -8,7 +8,7 @@
 ## 👋 About Me
 - 🎓 IT Student passionate about web and mobile development  
 - 💡 I build modern applications using *Angular, Spring Boot, React, Flutter, Node.js*, and more  
-- 📧 *Email:* [your.email@example.com](mailto:your.email@example.com)  
+- 📧 *Email:* [attiaazza086@gmail.com](mailto:your.email@example.com)  
 - 📱 *Phone:* +216 22 287 439  
 
 ---
